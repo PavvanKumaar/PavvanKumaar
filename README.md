@@ -1,6 +1,6 @@
 # Hi, I'm Pavvan 👋
 
-🚀 Full Stack Developer | Web & Mobile Enthusiast
+🚀 Full Stack Developer
 
 ---
 
