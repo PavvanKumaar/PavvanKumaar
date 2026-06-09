@@ -29,11 +29,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Pavvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavvanKumaar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavvanKumaar&layout=compact&theme=tokyonight)
-
----
-
 💡 *Always coding. Always learning.*
