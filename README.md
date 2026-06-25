@@ -1,6 +1,6 @@
 # Hi, I'm Pavvan 👋
 
-🚀 Full Stack Developer
+Full Stack Developer
 
 ---
 
@@ -29,4 +29,4 @@
 
 ---
 
-💡 *Always coding. Always learning.*
+Always learning.*
